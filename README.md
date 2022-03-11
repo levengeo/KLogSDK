@@ -1,1 +1,1 @@
-# KLogSDK
+# LogSDK in Kotlin
